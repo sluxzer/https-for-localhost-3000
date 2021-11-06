@@ -1,7 +1,7 @@
-# Intro:
+# Intro
 The problem occur when you try running localhost with port else than 80, ex: 3000.
 
-## Step:
+## Step
 1. Install Custom SSL Certificate
 2. Import .cert to your browser (chrome/firefox/explorer)
 
@@ -11,9 +11,12 @@ The problem occur when you try running localhost with port else than 80, ex: 300
 - Paste and enter
 - Add Cert manual on your browser
 
-### Import .cert to Chrome:
+### Import .cert to Chrome
 - Go to Settings / chrome://settings/security
 - Click Manage Certificates
 - Trusted Root Certification Authorities
 - Import your .cert
 - Restart Browser
+
+### etc
+you can match the step for another OS (linux/mac) or browsers.
